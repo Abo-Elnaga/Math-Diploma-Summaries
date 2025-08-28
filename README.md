@@ -25,7 +25,7 @@ Each branch is summarized in ~20 pages with **key formulas, examples, and explan
 
 ---
 
-## 🎯 Purpose  
+## ✍️ Purpose  
 - Quick revision before exams.  
 - A reference for students and learners.  
 - Sharing structured and bilingual knowledge.  
